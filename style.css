@@ -1,0 +1,48 @@
+:root{
+    font-size: 18px;
+  }
+  
+  html,body{
+      margin:0;
+      padding:0;
+  }
+  
+  /* Styling for the body of website */
+  body{
+      background-color: #163D41;
+      font-family:'ubuntu', san serif;
+  }
+  
+  header {
+      height: 300px;
+      background: url(https://smallville.com.au/wp-content/uploads/2019/08/21-great-questions-for-facilitators-Part-2.jpg;);
+      background-size: cover;
+  }
+  
+  header h1 {
+      text-align: center;
+      
+  h1, h2, h3, h4,h5,h6 {
+      
+  font-family:'metal mania', cursive;
+  }
+  
+  main {
+       display: flex;
+  }
+  
+  main img {
+      height: 300px;
+  }   
+      
+  nav ul {
+      list-style: none;
+  }  
+  
+  
+  }  
+  #content{
+      margin: 10px;
+      border: solid 2px blue;
+      padding: 10px;
+  }
